@@ -2,7 +2,7 @@
 
 Welcome to the Support Chatbot! This project provides a user-friendly interface for interacting with an AI-powered chatbot designed to provide support and assistance. It allows users to ask questions, seek guidance, and receive responses in real-time.
 
-![Chatbot Screenshot](/path/to/screenshot.png)
+![Chatbot Screenshot](screenshot.png)
 
 ## Features
 
